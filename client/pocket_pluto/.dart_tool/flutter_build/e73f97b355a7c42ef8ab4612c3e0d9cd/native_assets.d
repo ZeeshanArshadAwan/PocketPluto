@@ -1,0 +1,1 @@
+ D:\\Smart\ ALEC\\Projects\\PocketPluto\\client\\pocket_pluto\\.dart_tool\\flutter_build\\e73f97b355a7c42ef8ab4612c3e0d9cd\\native_assets.yaml: 
