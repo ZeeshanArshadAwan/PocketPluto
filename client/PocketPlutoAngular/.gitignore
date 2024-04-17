@@ -36,8 +36,6 @@ yarn-error.log
 /libpeerconnection.log
 testem.log
 /typings
-/angular.json
-/package-lock.json
 
 # System files
 .DS_Store
